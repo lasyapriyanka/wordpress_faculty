@@ -1,0 +1,1216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: faculty\n"
+"POT-Creation-Date: 2014-09-01 17:13+0330\n"
+"PO-Revision-Date: 2014-09-01 17:13+0330\n"
+"Last-Translator: owwwlab <owwwlab@gmail.com>\n"
+"Language-Team: owwwlab <owwwlab@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:16
+#, php-format
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:60
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:60 ../comments.php:69
+msgid "(required)"
+msgstr ""
+
+#: ../comments.php:69 ../includes/theme-options.php:308
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:78
+msgid "Website"
+msgstr ""
+
+#: ../functions.php:470
+msgid "Faculty Sidebar"
+msgstr ""
+
+#: ../functions.php:476
+msgid ""
+"Widgets in this area will be shown on the right-hand side if you select "
+"\"Page builder with sidebar\" template."
+msgstr ""
+
+#: ../functions.php:480
+msgid "Faculty footer of sidebar"
+msgstr ""
+
+#: ../functions.php:486
+msgid "Put just a tiny widget here like your language switcher."
+msgstr ""
+
+#: ../functions.php:573
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: ../functions.php:577
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:582
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../header.php:20
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../includes/functions-vc.php:76
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"http://bit.ly/vcomposer\" "
+"target=\"_blank\">Visual Composer</a></strong> plugin to be installed and "
+"activated on your site."
+msgstr ""
+
+#: ../includes/functions-vc.php:151 ../includes/functions-vc.php:691
+#: ../includes/functions-vc.php:699 ../includes/functions-vc.php:702
+msgid "Title"
+msgstr ""
+
+#: ../includes/functions-vc.php:694
+msgid "Place a title tag"
+msgstr ""
+
+#: ../includes/functions-vc.php:695 ../includes/functions-vc.php:748
+#: ../includes/functions-vc.php:781 ../includes/functions-vc.php:804
+#: ../includes/functions-vc.php:853 ../includes/functions-vc.php:876
+#: ../includes/functions-vc.php:915 ../includes/functions-vc.php:939
+#: ../includes/functions-vc.php:970 ../includes/functions-vc.php:993
+#: ../includes/functions-vc.php:1028 ../includes/functions-vc.php:1076
+#: ../includes/functions-vc.php:1099 ../includes/functions-vc.php:1148
+#: ../includes/functions-vc.php:1170 ../includes/functions-vc.php:1217
+#: ../includes/functions-vc.php:1239
+msgid "faculty"
+msgstr ""
+
+#: ../includes/functions-vc.php:703
+msgid "Separator title."
+msgstr ""
+
+#: ../includes/functions-vc.php:707
+msgid "Title position"
+msgstr ""
+
+#: ../includes/functions-vc.php:709 ../includes/functions-vc.php:1055
+msgid "Align center"
+msgstr ""
+
+#: ../includes/functions-vc.php:709 ../includes/functions-vc.php:1055
+msgid "Align left"
+msgstr ""
+
+#: ../includes/functions-vc.php:709 ../includes/functions-vc.php:1055
+msgid "Align right"
+msgstr ""
+
+#: ../includes/functions-vc.php:710
+msgid "Select title location."
+msgstr ""
+
+#: ../includes/functions-vc.php:714
+msgid "Title tag"
+msgstr ""
+
+#: ../includes/functions-vc.php:717
+msgid "Big heading"
+msgstr ""
+
+#: ../includes/functions-vc.php:718
+msgid "h1"
+msgstr ""
+
+#: ../includes/functions-vc.php:719
+msgid "h2"
+msgstr ""
+
+#: ../includes/functions-vc.php:720
+msgid "h3"
+msgstr ""
+
+#: ../includes/functions-vc.php:721
+msgid "h4"
+msgstr ""
+
+#: ../includes/functions-vc.php:723
+msgid "Select title tag."
+msgstr ""
+
+#: ../includes/functions-vc.php:727
+msgid "Custom font Color"
+msgstr ""
+
+#: ../includes/functions-vc.php:729
+msgid "You can assign a custom color if you need to."
+msgstr ""
+
+#: ../includes/functions-vc.php:733 ../includes/functions-vc.php:792
+#: ../includes/functions-vc.php:865 ../includes/functions-vc.php:927
+#: ../includes/functions-vc.php:982 ../includes/functions-vc.php:1088
+#: ../includes/functions-vc.php:1160 ../includes/functions-vc.php:1229
+msgid "Extra class name"
+msgstr ""
+
+#: ../includes/functions-vc.php:735 ../includes/functions-vc.php:794
+#: ../includes/functions-vc.php:867 ../includes/functions-vc.php:929
+#: ../includes/functions-vc.php:984 ../includes/functions-vc.php:1090
+#: ../includes/functions-vc.php:1162 ../includes/functions-vc.php:1231
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../includes/functions-vc.php:743
+msgid "wrapper"
+msgstr ""
+
+#: ../includes/functions-vc.php:750
+msgid "Place content elements inside the wrapper and give it proper spacing"
+msgstr ""
+
+#: ../includes/functions-vc.php:754
+msgid "Custom Background Color"
+msgstr ""
+
+#: ../includes/functions-vc.php:756
+msgid "Select backgound color for your wrapper"
+msgstr ""
+
+#: ../includes/functions-vc.php:760
+msgid "Padding"
+msgstr ""
+
+#: ../includes/functions-vc.php:762
+msgid ""
+"You can use px and it can be all four side padding top right bottom left "
+"eg(20px 0px 15px 10px) "
+msgstr ""
+
+#: ../includes/functions-vc.php:766
+msgid "Margin"
+msgstr ""
+
+#: ../includes/functions-vc.php:768
+msgid ""
+"YYou can use px and it can be all four side margin top right bottom left "
+"eg(20px 0px 15px 10px) "
+msgstr ""
+
+#: ../includes/functions-vc.php:775
+msgid "Positions"
+msgstr ""
+
+#: ../includes/functions-vc.php:786 ../includes/functions-vc.php:859
+#: ../includes/functions-vc.php:921 ../includes/functions-vc.php:976
+#: ../includes/functions-vc.php:1082 ../includes/functions-vc.php:1154
+#: ../includes/functions-vc.php:1223
+msgid "Widget title"
+msgstr ""
+
+#: ../includes/functions-vc.php:788 ../includes/functions-vc.php:861
+#: ../includes/functions-vc.php:923 ../includes/functions-vc.php:978
+#: ../includes/functions-vc.php:1084 ../includes/functions-vc.php:1156
+#: ../includes/functions-vc.php:1225
+msgid "Enter widget title"
+msgstr ""
+
+#: ../includes/functions-vc.php:801
+msgid "Single position"
+msgstr ""
+
+#: ../includes/functions-vc.php:810
+msgid "Position title"
+msgstr ""
+
+#: ../includes/functions-vc.php:812
+msgid "Enter position title"
+msgstr ""
+
+#: ../includes/functions-vc.php:817
+msgid "Position location"
+msgstr ""
+
+#: ../includes/functions-vc.php:820
+msgid "Enter position location or leave it blank and use HTML contnet instead"
+msgstr ""
+
+#: ../includes/functions-vc.php:827
+msgid "HTML Content instead of location"
+msgstr ""
+
+#: ../includes/functions-vc.php:830 ../includes/functions-vc.php:959
+#: ../includes/functions-vc.php:1130
+msgid "This could be a short decription about the award in HTML mode"
+msgstr ""
+
+#: ../includes/functions-vc.php:834
+msgid "Position start date"
+msgstr ""
+
+#: ../includes/functions-vc.php:836
+msgid "Enter period start date(eg:2012)"
+msgstr ""
+
+#: ../includes/functions-vc.php:840
+msgid "Position end date"
+msgstr ""
+
+#: ../includes/functions-vc.php:842
+msgid "Enter period end date(eg:present)"
+msgstr ""
+
+#: ../includes/functions-vc.php:849
+msgid "Educations"
+msgstr ""
+
+#: ../includes/functions-vc.php:873
+msgid "Single education"
+msgstr ""
+
+#: ../includes/functions-vc.php:882
+msgid "Education title"
+msgstr ""
+
+#: ../includes/functions-vc.php:884
+msgid "Enter degree title"
+msgstr ""
+
+#: ../includes/functions-vc.php:889
+msgid "Education location"
+msgstr ""
+
+#: ../includes/functions-vc.php:891
+msgid "Enter university/institution"
+msgstr ""
+
+#: ../includes/functions-vc.php:896
+msgid "Education level"
+msgstr ""
+
+#: ../includes/functions-vc.php:898
+msgid "Enter degree level(eg:B.A)"
+msgstr ""
+
+#: ../includes/functions-vc.php:902
+msgid "Education date"
+msgstr ""
+
+#: ../includes/functions-vc.php:904
+msgid "Enter graduation year(eg:2010) or leave it empty"
+msgstr ""
+
+#: ../includes/functions-vc.php:911
+msgid "Interests"
+msgstr ""
+
+#: ../includes/functions-vc.php:936
+msgid "Single interest"
+msgstr ""
+
+#: ../includes/functions-vc.php:945
+msgid "Research interest title"
+msgstr ""
+
+#: ../includes/functions-vc.php:949
+msgid ""
+"Enter your field of interest in plain text or leave it blank and use HTML "
+"content below"
+msgstr ""
+
+#: ../includes/functions-vc.php:955 ../includes/functions-vc.php:1008
+#: ../includes/functions-vc.php:1127
+msgid "HTML Content"
+msgstr ""
+
+#: ../includes/functions-vc.php:966
+msgid "List with icons"
+msgstr ""
+
+#: ../includes/functions-vc.php:990
+msgid "Single icon with description"
+msgstr ""
+
+#: ../includes/functions-vc.php:999
+msgid "List description"
+msgstr ""
+
+#: ../includes/functions-vc.php:1001
+msgid "Enter the description"
+msgstr ""
+
+#: ../includes/functions-vc.php:1003 ../includes/functions-vc.php:1122
+msgid ""
+"Simple content, You can leave this unchanged and put your content in HTML "
+"Content Box."
+msgstr ""
+
+#: ../includes/functions-vc.php:1012
+msgid "This could be a short decription in HTML mode"
+msgstr ""
+
+#: ../includes/functions-vc.php:1016 ../includes/functions-vc.php:1034
+msgid "Icon class"
+msgstr ""
+
+#: ../includes/functions-vc.php:1018 ../includes/functions-vc.php:1036
+msgid ""
+"Enter the class of icon eg:fa-book ( see available class here :http://"
+"fontawesome.io/icons/)"
+msgstr ""
+
+#: ../includes/functions-vc.php:1025
+msgid "Single fontawesome icon"
+msgstr ""
+
+#: ../includes/functions-vc.php:1029
+msgid "Simple fontawesome icon"
+msgstr ""
+
+#: ../includes/functions-vc.php:1040
+msgid "Icon font size"
+msgstr ""
+
+#: ../includes/functions-vc.php:1042
+msgid "Enter the size of icon eg:20"
+msgstr ""
+
+#: ../includes/functions-vc.php:1046
+msgid "Icon color"
+msgstr ""
+
+#: ../includes/functions-vc.php:1048
+msgid "Select the color of icon"
+msgstr ""
+
+#: ../includes/functions-vc.php:1053
+msgid "Text align"
+msgstr ""
+
+#: ../includes/functions-vc.php:1056
+msgid "Select text align."
+msgstr ""
+
+#: ../includes/functions-vc.php:1060
+msgid "Icon display"
+msgstr ""
+
+#: ../includes/functions-vc.php:1062
+msgid "inline"
+msgstr ""
+
+#: ../includes/functions-vc.php:1062
+msgid "block"
+msgstr ""
+
+#: ../includes/functions-vc.php:1063
+msgid "Select type of display"
+msgstr ""
+
+#: ../includes/functions-vc.php:1072
+msgid "Awards"
+msgstr ""
+
+#: ../includes/functions-vc.php:1096
+msgid "Single award"
+msgstr ""
+
+#: ../includes/functions-vc.php:1105
+msgid "Award title"
+msgstr ""
+
+#: ../includes/functions-vc.php:1107
+msgid "Enter award title"
+msgstr ""
+
+#: ../includes/functions-vc.php:1112
+msgid "Award date"
+msgstr ""
+
+#: ../includes/functions-vc.php:1114
+msgid "Enter award date or period(eg:June 2011)"
+msgstr ""
+
+#: ../includes/functions-vc.php:1119
+msgid "Text Content"
+msgstr ""
+
+#: ../includes/functions-vc.php:1134
+msgid "Award image"
+msgstr ""
+
+#: ../includes/functions-vc.php:1137
+msgid "Select image from media library. ( Can be empty )"
+msgstr ""
+
+#: ../includes/functions-vc.php:1144
+msgid "Lab personnel carousel"
+msgstr ""
+
+#: ../includes/functions-vc.php:1168
+msgid "Single personnel"
+msgstr ""
+
+#: ../includes/functions-vc.php:1177
+msgid "Person name"
+msgstr ""
+
+#: ../includes/functions-vc.php:1179
+msgid "Enter personnel name"
+msgstr ""
+
+#: ../includes/functions-vc.php:1184
+msgid "Person position"
+msgstr ""
+
+#: ../includes/functions-vc.php:1186
+msgid "Enter personnel position"
+msgstr ""
+
+#: ../includes/functions-vc.php:1191
+msgid "Person follow link"
+msgstr ""
+
+#: ../includes/functions-vc.php:1193
+msgid ""
+"Enter personel follow link, <strong>leave this blank to disable hyperlink</"
+"strong>"
+msgstr ""
+
+#: ../includes/functions-vc.php:1197
+msgid "follow button text"
+msgstr ""
+
+#: ../includes/functions-vc.php:1199
+msgid "Enter text for the follow button, leave blank and it will be Follow"
+msgstr ""
+
+#: ../includes/functions-vc.php:1203
+msgid "Person image"
+msgstr ""
+
+#: ../includes/functions-vc.php:1206 ../includes/functions-vc.php:1271
+msgid "Select image from media library."
+msgstr ""
+
+#: ../includes/functions-vc.php:1213
+msgid "Reserach projects"
+msgstr ""
+
+#: ../includes/functions-vc.php:1237
+msgid "Single project"
+msgstr ""
+
+#: ../includes/functions-vc.php:1246
+msgid "Project title"
+msgstr ""
+
+#: ../includes/functions-vc.php:1248
+msgid "Enter the title of project"
+msgstr ""
+
+#: ../includes/functions-vc.php:1253
+msgid "Project short description"
+msgstr ""
+
+#: ../includes/functions-vc.php:1255
+msgid "Enter very short description of the project"
+msgstr ""
+
+#: ../includes/functions-vc.php:1261
+msgid "Text"
+msgstr ""
+
+#: ../includes/functions-vc.php:1263
+msgid "<p>This could be a full decription about the project</p>"
+msgstr ""
+
+#: ../includes/functions-vc.php:1268
+msgid "Project image"
+msgstr ""
+
+#: ../includes/theme-options.php:32
+msgid "General"
+msgstr ""
+
+#: ../includes/theme-options.php:36
+msgid "Social icons"
+msgstr ""
+
+#: ../includes/theme-options.php:40
+msgid "Theme Colors"
+msgstr ""
+
+#: ../includes/theme-options.php:44
+msgid "Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:48
+msgid "Blog"
+msgstr ""
+
+#: ../includes/theme-options.php:52 ../includes/type-publications.php:6
+msgid "Publications"
+msgstr ""
+
+#: ../includes/theme-options.php:56
+msgid "Sidebars"
+msgstr ""
+
+#: ../includes/theme-options.php:60
+msgid "Misc"
+msgstr ""
+
+#: ../includes/theme-options.php:67
+msgid "About sidebars"
+msgstr ""
+
+#: ../includes/theme-options.php:68
+msgid ""
+"Create any sidebar then go to Appearance > Widgets and add widgets to them, "
+"and then you can choose them for specific pages or posts using visual "
+"composer"
+msgstr ""
+
+#: ../includes/theme-options.php:77
+msgid "Create Sidebars"
+msgstr ""
+
+#: ../includes/theme-options.php:80
+msgid "Choose a unique title for each sidebar"
+msgstr ""
+
+#: ../includes/theme-options.php:87
+msgid "Write a lowercase single world as ID (or number), without any spaces"
+msgstr ""
+
+#: ../includes/theme-options.php:98
+msgid "Your Name"
+msgstr ""
+
+#: ../includes/theme-options.php:99
+msgid "Type in your complete name here"
+msgstr ""
+
+#: ../includes/theme-options.php:113
+msgid "Sub-title"
+msgstr ""
+
+#: ../includes/theme-options.php:114
+msgid "A sub text just below your name, can be your university name, etc"
+msgstr ""
+
+#: ../includes/theme-options.php:128
+msgid "Personal photo"
+msgstr ""
+
+#: ../includes/theme-options.php:129
+msgid ""
+"Upload your personal photo here. It will be shown at the top of the sidebar."
+msgstr ""
+
+#: ../includes/theme-options.php:143
+msgid "CV file"
+msgstr ""
+
+#: ../includes/theme-options.php:144
+msgid "Upload your CV file"
+msgstr ""
+
+#: ../includes/theme-options.php:158
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/theme-options.php:173
+msgid "Facebook url"
+msgstr ""
+
+#: ../includes/theme-options.php:188
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/theme-options.php:203
+msgid "Twitter URL"
+msgstr ""
+
+#: ../includes/theme-options.php:218
+msgid "LinedIn"
+msgstr ""
+
+#: ../includes/theme-options.php:233
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../includes/theme-options.php:248
+msgid "Academia.edu"
+msgstr ""
+
+#: ../includes/theme-options.php:263
+msgid "Academia.edu URL"
+msgstr ""
+
+#: ../includes/theme-options.php:278
+msgid "Researchgate Profile"
+msgstr ""
+
+#: ../includes/theme-options.php:293
+msgid "Researchgate URL"
+msgstr ""
+
+#: ../includes/theme-options.php:323
+msgid "Email address"
+msgstr ""
+
+#: ../includes/theme-options.php:338
+msgid "Google+"
+msgstr ""
+
+#: ../includes/theme-options.php:353 ../includes/theme-options.php:383
+#: ../includes/theme-options.php:413 ../includes/theme-options.php:443
+#: ../includes/theme-options.php:473 ../includes/theme-options.php:503
+msgid "URL"
+msgstr ""
+
+#: ../includes/theme-options.php:368
+msgid "YouTube"
+msgstr ""
+
+#: ../includes/theme-options.php:398
+msgid "Instagram"
+msgstr ""
+
+#: ../includes/theme-options.php:428
+msgid "Flickr"
+msgstr ""
+
+#: ../includes/theme-options.php:458
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/theme-options.php:488
+msgid "RSS"
+msgstr ""
+
+#: ../includes/theme-options.php:518
+msgid "Main color"
+msgstr ""
+
+#: ../includes/theme-options.php:533
+msgid "Darker Color"
+msgstr ""
+
+#: ../includes/theme-options.php:548
+msgid "Header row background color"
+msgstr ""
+
+#: ../includes/theme-options.php:563
+msgid "Odd rows color"
+msgstr ""
+
+#: ../includes/theme-options.php:564
+msgid "Color of first, third, etc rows at your pages."
+msgstr ""
+
+#: ../includes/theme-options.php:578
+msgid "Even rows color"
+msgstr ""
+
+#: ../includes/theme-options.php:579
+msgid "background color of second, fourth, etc rows at pages"
+msgstr ""
+
+#: ../includes/theme-options.php:593
+msgid "Sidebar background color"
+msgstr ""
+
+#: ../includes/theme-options.php:594
+msgid "default: #2b2b2b"
+msgstr ""
+
+#: ../includes/theme-options.php:608
+msgid "Sidebar footer background color"
+msgstr ""
+
+#: ../includes/theme-options.php:609
+msgid "default: #202020"
+msgstr ""
+
+#: ../includes/theme-options.php:623
+msgid "Menu item background color"
+msgstr ""
+
+#: ../includes/theme-options.php:638
+msgid "menu hover"
+msgstr ""
+
+#: ../includes/theme-options.php:653
+msgid "Menu item border-top color"
+msgstr ""
+
+#: ../includes/theme-options.php:668
+msgid "Menu item border-bottom color"
+msgstr ""
+
+#: ../includes/theme-options.php:683
+msgid "Gallery Header color"
+msgstr ""
+
+#: ../includes/theme-options.php:698
+msgid "Gallery body color"
+msgstr ""
+
+#: ../includes/theme-options.php:713
+msgid "Boxed elements background color"
+msgstr ""
+
+#: ../includes/theme-options.php:714
+msgid ""
+"background color for boxed elements, for example educations, research "
+"interests, projects, comments, etc."
+msgstr ""
+
+#: ../includes/theme-options.php:728
+msgid "Boxed elements alternative background color"
+msgstr ""
+
+#: ../includes/theme-options.php:729
+msgid "some boxed elements need to be slightly darker or lighter..."
+msgstr ""
+
+#: ../includes/theme-options.php:743
+msgid "Blog hide show icon color"
+msgstr ""
+
+#: ../includes/theme-options.php:744
+msgid ""
+"Color for the little arrow to show and hide the list of posts at blog. Use "
+"high contrast against the blog list header background."
+msgstr ""
+
+#: ../includes/theme-options.php:758
+msgid "Blog list header color"
+msgstr ""
+
+#: ../includes/theme-options.php:773
+msgid "Blog list header text color"
+msgstr ""
+
+#: ../includes/theme-options.php:774
+msgid "The text color of the blog sidebar header"
+msgstr ""
+
+#: ../includes/theme-options.php:788
+msgid "Title color"
+msgstr ""
+
+#: ../includes/theme-options.php:789
+msgid ""
+"default:#333333 / This will affect the titles with class of \"fac-title\" "
+"and the big title of pages and also the title of the blog posts. all other "
+"headings will not be affected."
+msgstr ""
+
+#: ../includes/theme-options.php:803
+msgid "Sidebar title size"
+msgstr ""
+
+#: ../includes/theme-options.php:804
+msgid "default is 28"
+msgstr ""
+
+#: ../includes/theme-options.php:818
+msgid "Menu text size"
+msgstr ""
+
+#: ../includes/theme-options.php:819
+msgid "default is 14"
+msgstr ""
+
+#: ../includes/theme-options.php:833
+msgid "Global font size"
+msgstr ""
+
+#: ../includes/theme-options.php:834
+msgid "default is 16"
+msgstr ""
+
+#: ../includes/theme-options.php:848
+msgid "Big title size"
+msgstr ""
+
+#: ../includes/theme-options.php:849 ../includes/theme-options.php:864
+msgid "default is 50"
+msgstr ""
+
+#: ../includes/theme-options.php:863
+msgid "Blog title size"
+msgstr ""
+
+#: ../includes/theme-options.php:878
+msgid "Use Ajax for blog pages?"
+msgstr ""
+
+#: ../includes/theme-options.php:879
+msgid ""
+"When this is on, you can click on list of posts at the sidebar and it will "
+"loads the content into the page, if you want to disable this turn it off, "
+"then when you click it will load the entire page.<br/> This is usefull when "
+"you want to use third party plugins which will add scripts to page that the "
+"theme cant handle them. <br/> And dont worry about the SEO it will work fine "
+"with search engines while using ajax ON."
+msgstr ""
+
+#: ../includes/theme-options.php:893
+msgid "Show Post twitter share"
+msgstr ""
+
+#: ../includes/theme-options.php:908
+msgid "Show Post Google plus"
+msgstr ""
+
+#: ../includes/theme-options.php:923
+msgid "Blog facebook"
+msgstr ""
+
+#: ../includes/theme-options.php:938
+msgid "Show post author"
+msgstr ""
+
+#: ../includes/theme-options.php:953
+msgid "Show post tags"
+msgstr ""
+
+#: ../includes/theme-options.php:968
+msgid "Show thumbs at blog list"
+msgstr ""
+
+#: ../includes/theme-options.php:983
+msgid "Preset filtering on:"
+msgstr ""
+
+#: ../includes/theme-options.php:984
+msgid ""
+"After adding some \"publications types\" type the slug of the type which you "
+"want to be used as active filter, leave this blank to ignore it."
+msgstr ""
+
+#: ../includes/theme-options.php:998
+msgid "Publication items layout"
+msgstr ""
+
+#: ../includes/theme-options.php:1013
+msgid "Default"
+msgstr ""
+
+#: ../includes/theme-options.php:1018
+msgid "compact"
+msgstr ""
+
+#: ../includes/theme-options.php:1025
+msgid "Order publications by year?"
+msgstr ""
+
+#: ../includes/theme-options.php:1026
+msgid ""
+"Letting this to be on will ignore your ordering and will re order your "
+"publication list by year."
+msgstr ""
+
+#: ../includes/theme-options.php:1040
+msgid "Publication list order"
+msgstr ""
+
+#: ../includes/theme-options.php:1055
+msgid "Ascending"
+msgstr ""
+
+#: ../includes/theme-options.php:1060
+msgid "Descending"
+msgstr ""
+
+#: ../includes/theme-options.php:1067
+msgid "Show Publication filters"
+msgstr ""
+
+#: ../includes/theme-options.php:1082
+msgid "Publication filter layout"
+msgstr ""
+
+#: ../includes/theme-options.php:1097
+msgid "DropDown"
+msgstr ""
+
+#: ../includes/theme-options.php:1102
+msgid "Inline badges"
+msgstr ""
+
+#: ../includes/theme-options.php:1109
+msgid "Analytics script"
+msgstr ""
+
+#: ../includes/theme-options.php:1110
+msgid "Paste your Google analytics ( or other services ) code here"
+msgstr ""
+
+#: ../includes/theme-options.php:1124
+msgid "Site favicon"
+msgstr ""
+
+#: ../includes/theme-options.php:1125
+msgid "Upload a 16x16 or 32x32 .png or .ico file"
+msgstr ""
+
+#: ../includes/theme-options.php:1139
+msgid "Copyright text"
+msgstr ""
+
+#: ../includes/theme-options.php:1154
+msgid "Use fancy scrollbars?"
+msgstr ""
+
+#: ../includes/theme-options.php:1169
+msgid "Circled profile picture?"
+msgstr ""
+
+#: ../includes/theme-options.php:1170
+msgid "default is on which means it will wrap your image with a circle."
+msgstr ""
+
+#: ../includes/theme-options.php:1184
+msgid "Show Sidebar Footer?"
+msgstr ""
+
+#: ../includes/theme-options.php:1200
+msgid "Sidebar footer layout"
+msgstr ""
+
+#: ../includes/theme-options.php:1215
+msgid "Stick to bottom"
+msgstr ""
+
+#: ../includes/theme-options.php:1220
+msgid "Right after navigation menu"
+msgstr ""
+
+#: ../includes/type-gallery.php:6 ../includes/type-gallery.php:7
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/type-gallery.php:8 ../includes/type-publications.php:8
+msgid "Add New"
+msgstr ""
+
+#: ../includes/type-gallery.php:9
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../includes/type-gallery.php:10
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../includes/type-gallery.php:11
+msgid "New Gallery"
+msgstr ""
+
+#: ../includes/type-gallery.php:12
+msgid "View Gallery"
+msgstr ""
+
+#: ../includes/type-gallery.php:13
+msgid "Search Gallery"
+msgstr ""
+
+#: ../includes/type-gallery.php:14
+msgid "No galleries found"
+msgstr ""
+
+#: ../includes/type-gallery.php:15
+msgid "No galleries found in Trash"
+msgstr ""
+
+#: ../includes/type-gallery.php:43
+msgid "Thumbnail"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:18
+#: ../includes/type-publications.php:70
+msgid "Publication Title"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:19
+msgid "Title of the Publication"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:24
+msgid "Publication Year"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:25
+msgid "Year of the Publication, eg:2014"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:30
+msgid "Authors"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:31
+msgid "List of authors , eg:Jennifer Doe, Emily N. Garbinsky, Kathleen D. Vohs"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:36
+msgid "Citation"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:37
+msgid ""
+"for example: Journal of Consumer Psychology, Volume 22, Issue 2, April 2012, "
+"Pages 191-194"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:42
+msgid "External Link"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:43
+msgid ""
+"Link to publishe website ex: http://www.sciencedirect.com/science/article/"
+"pii/S1057740812000290"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:48
+msgid "File"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:49
+msgid "Document file (pdf,doc)"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:170
+msgid "Remove file"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:181
+msgid "Remove image"
+msgstr ""
+
+#: ../includes/type-publications.php:7
+msgid "Publication"
+msgstr ""
+
+#: ../includes/type-publications.php:9
+msgid "Add New Publication"
+msgstr ""
+
+#: ../includes/type-publications.php:10
+msgid "Edit Publication"
+msgstr ""
+
+#: ../includes/type-publications.php:11
+msgid "New Publication"
+msgstr ""
+
+#: ../includes/type-publications.php:12
+msgid "View Publication"
+msgstr ""
+
+#: ../includes/type-publications.php:13
+msgid "Search Publications"
+msgstr ""
+
+#: ../includes/type-publications.php:14
+msgid "No Publications found"
+msgstr ""
+
+#: ../includes/type-publications.php:15
+msgid "No Publications found in Trash"
+msgstr ""
+
+#: ../includes/type-publications.php:71
+msgid "Order"
+msgstr ""
+
+#: ../index.php:24 ../single.php:6
+msgid "List"
+msgstr ""
+
+#: ../index.php:43 ../single.php:89
+msgid "Posts"
+msgstr ""
+
+#: ../loop.php:20 ../single.php:108
+msgid "posts"
+msgstr ""
+
+#: ../loop.php:63
+msgid "No posts"
+msgstr ""
+
+#: ../page-publications.php:35
+msgid "Filter by type:"
+msgstr ""
+
+#: ../page-publications.php:43 ../page-publications.php:77
+#: ../page-publications.php:113
+msgid "All types"
+msgstr ""
+
+#: ../page-publications.php:191 ../page-publications.php:236
+msgid "Download"
+msgstr ""
+
+#: ../search.php:21
+#, php-format
+msgid "Search Results for \"%s\""
+msgstr ""
+
+#: ../search.php:23
+msgid "Displaying"
+msgstr ""
+
+#: ../search.php:23
+msgid "of"
+msgstr ""
+
+#: ../search.php:23
+msgid "results"
+msgstr ""
+
+#: ../search.php:38
+msgid "Sorry, we could not find any results"
+msgstr ""
+
+#: ../single.php:150
+msgid "No Posts"
+msgstr ""

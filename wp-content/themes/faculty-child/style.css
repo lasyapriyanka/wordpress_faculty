@@ -1,0 +1,29 @@
+/*
+Theme Name: Faculty-Child
+Theme URI: 
+Author: owwwlab
+Author URI: http://themeforest.net/user/owwwlab/portfolio
+Template: faculty
+Description: Faculty Child Theme
+Version: 1.5.1
+License: GNU General Public License
+License URI: license.txt
+Tags: theme-options, full-width-template, fluid-layout, sticky-post, black, white, threaded-comments, photoblogging, featured-images
+*/
+ 
+@import url("../faculty/style.css");
+ 
+@import url("../faculty/css/style.css");
+
+
+/* these are examples
+   you can overwrite your own css below
+*/
+
+ul#navigation  li.menu-item a:hover {
+    color: #ffff00;
+}
+ 
+ul#navigation li.current-menu-item a {
+    color: #BBB;
+}
